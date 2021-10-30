@@ -1,5 +1,5 @@
-## Hi, I'm Daniel 👋
-   I'm a student and I'm learning C and C++
+## Hi, I'm Daniel
+   📙 I'm a student and I'm learning C and C++
 
 ### Languages and Tools:
 
